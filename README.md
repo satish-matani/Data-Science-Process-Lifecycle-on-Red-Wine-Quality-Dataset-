@@ -1,1 +1,3 @@
-# Data-Science-Process-Lifecycle-on-Red-Wine-Quality-Dataset-
+# Data-Science-Process-Lifecycle-on-Red-Wine-Quality-Dataset
+
+This project involved implementing the Data Science Process Lifecycle on a red wine quality dataset to automate the quality assessment process. By using machine learning algorithms such as Linear Regression and Random Forest Regression, the project aimed to predict wine quality based on physicochemical properties. The study identified key features influencing quality, such as alcohol content, sulphates, and volatile acidity, providing valuable insights for winemakers. The project demonstrated the potential of machine learning to enhance efficiency and consistency in the wine industry.
